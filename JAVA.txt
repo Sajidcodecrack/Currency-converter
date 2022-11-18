@@ -1,0 +1,15 @@
+Methods: Functions which are define in the class are called methods.
+
+this. keyword tells in method which objects wants to access
+
+Note: in java Functions name start from small letter 
+      but Classes name are used as capital 
+
+Constructor:::
+ *** its work is to construct the objects of java.
+  constructor are 3 types:
+  1=> non-parameterized constuctor.
+  Rules and Binding of a constructor:
+ * object constructor name = class constructor name.
+ *constructor never returns anything.
+ * For 1 object we will can build only 1 constuctor.
